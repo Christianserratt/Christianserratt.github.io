@@ -1,16 +1,13 @@
-/**var boton1; 
+var boton1; 
 boton1=0;
 
-document.getElementById('datospersonales1').addEventListener('click', function(){
-if(boton1==0){
-    document.getElementById('divdatosp').style.display="block";
-    boton1=1;
-}
-else{
-        document.getElementById('divdatosp').style.display="none";
+document.getElementById('idiomas.html').addEventListener('click', function(){
+if{
+        document.getElementById('aaa').style.display="block";
         boton1=0;
 }
 })
+/*
 var boton2; 
 boton2=0;
 
